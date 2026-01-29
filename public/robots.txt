@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: https://nurdin-shubash-d95fbba1.zappy5.app/sitemap.xml

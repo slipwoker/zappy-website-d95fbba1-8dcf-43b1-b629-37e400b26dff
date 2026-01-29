@@ -1,0 +1,53 @@
+# Nurdin Shubash — Generative Engine Optimization Map
+
+> A דת ורוחניות business.
+
+---
+
+## Pages
+
+### Home
+https://nurdin-shubash-d95fbba1.zappy5.app
+
+### About
+https://nurdin-shubash-d95fbba1.zappy5.app/about
+
+### Articles
+https://nurdin-shubash-d95fbba1.zappy5.app/articles
+
+### Contact
+https://nurdin-shubash-d95fbba1.zappy5.app/contact
+
+## Legal & Policy
+
+### Privacy Policy
+https://nurdin-shubash-d95fbba1.zappy5.app/privacy
+Information about how user data is collected, stored, and protected.
+
+### Terms & Conditions
+https://nurdin-shubash-d95fbba1.zappy5.app/terms
+Legal terms describing service usage, rights, and policies.
+
+### Accessibility Statement
+https://nurdin-shubash-d95fbba1.zappy5.app/accessibility
+Information about WCAG compliance and accessibility features.
+
+---
+
+# Business Context (for LLM understanding)
+
+## About Nurdin Shubash
+Nurdin Shubash is a business in the דת ורוחניות industry.
+
+## Target Audience
+דוברי עברית המעוניינים באסלאם
+
+## Industry
+דת ורוחניות
+
+---
+
+# Additional Resources
+
+- **Sitemap**: https://nurdin-shubash-d95fbba1.zappy5.app/sitemap.xml
+- **Robots.txt**: https://nurdin-shubash-d95fbba1.zappy5.app/robots.txt
